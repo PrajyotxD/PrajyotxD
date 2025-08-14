@@ -5,7 +5,7 @@
 
 <!-- Animated Badges -->
 <p align="center">
-  <a href="https://github.com/FAULTYXD"><img src="https://img.shields.io/github/followers/FAULTYXD?label=Followers&style=for-the-badge&color=FF00FF&logo=github" /></a>
+  <a href="https://github.com/PrajyotxD"><img src="https://img.shields.io/github/followers/FAULTYXD?label=Followers&style=for-the-badge&color=FF00FF&logo=github" /></a>
   <a href="#"><img src="https://img.shields.io/badge/India-%23FF9933?style=for-the-badge&logo=google-earth&logoColor=white" /></a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=FAULTYXD&style=for-the-badge&color=00F5D4" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Sleeps-Never-8f00ff?style=for-the-badge&logo=apachecouchdb&logoColor=white" /></a>
