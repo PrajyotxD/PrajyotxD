@@ -5,7 +5,7 @@
 
 <!-- Animated Badges -->
 <p align="center">
-  <a href="https://github.com/PrajyotxD"><img src="https://img.shields.io/github/followers/FAULTYXD?label=Followers&style=for-the-badge&color=FF00FF&logo=github" /></a>
+  <a href="https://github.com/PrajyotxD"><img src="https://img.shields.io/github/followers/PrajyotxD?label=Followers&style=for-the-badge&color=FF00FF&logo=github" /></a>
   <a href="#"><img src="https://img.shields.io/badge/India-%23FF9933?style=for-the-badge&logo=google-earth&logoColor=white" /></a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=FAULTYXD&style=for-the-badge&color=00F5D4" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Sleeps-Never-8f00ff?style=for-the-badge&logo=apachecouchdb&logoColor=white" /></a>
@@ -30,7 +30,7 @@ Location: India
 <!-- Tech Stack -->
 ## ⚡ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,linux,git,github,python,nodejs,html,css,javascript,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,linux,git,github,,vscode" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ Location: India
 <!-- Contribution Graph -->
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FAULTYXD&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajyotxD&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 ---
