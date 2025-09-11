@@ -1,6 +1,6 @@
 <!-- Glitch Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prajyot+xD;Android+Dev+%7C+Reverse+Engineer;Security+Research+%7C+3D+UI+Junkie;Breaking+Things+Since+Day+One" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prajyot;Android+Dev+%7C+Reverse+Engineer;Security+Research+%7C+3D+UI+Junkie;Breaking+Things+Since+Day+One" alt="Typing SVG" />
 </p>
 
 <!-- Animated Badges -->
@@ -16,7 +16,7 @@
 <!-- About Me -->
 ## 👾 About Me
 ```yaml
-Name: PrajyotxD
+Name: Prajyot
 Skills: Java | Android | Reverse Engineering | Security Research
 Superpower: Turning laziness into automation
 Weakness: Naming variables
