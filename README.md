@@ -1,4 +1,3 @@
-<!-- Glitch Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prajyot;Android+Dev+%7C+Reverse+Engineer;Security+Research+%7C+3D+UI+Junkie;Breaking+Things+Since+Day+One" alt="Typing SVG" />
 </p>
@@ -46,10 +45,16 @@ Location: India
 ---
 
 <!-- Stats -->
+<!-- Stats -->
 ## 📊 Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAULTYXD&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAULTYXD&theme=highcontrast&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrajyotxD&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=3600" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajyotxD&theme=highcontrast&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajyotxD&layout=compact&theme=highcontrast&hide_border=true&cache_seconds=3600" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PrajyotxD&theme=onedark&margin-w=10&margin-h=10&no-frame=true&row=1" />
 </p>
 
 ---
